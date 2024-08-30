@@ -59,8 +59,3 @@ public static void main(String[] args) {
 ## Contributing
 We welcome contributions to this project. Please feel free to submit pull requests or open issues for any bugs or feature requests.
 
-## License
-[Insert appropriate license information here]
-
-## Contact
-[Insert contact information for the project maintainer or team]
